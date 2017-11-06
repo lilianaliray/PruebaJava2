@@ -8,7 +8,11 @@ import javax.swing.JOptionPane;
  * and open the template in the editor.
  */
 
-/**
+/********************************************************************
+ *autor:liliana hevia 
+ *fecha:06-11-2017
+ *clase:prueba java 2
+ *responsabilidad:esta clase nos enseña a crear contraseñas
  *
  * @author LAB04
  */
